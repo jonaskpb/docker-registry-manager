@@ -1,0 +1,8 @@
+# Build output
+/drm
+/dist/
+/bin/
+
+# Go
+*.test
+*.out
